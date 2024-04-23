@@ -7,5 +7,5 @@ Content :
 */
 
 SELECT *
-FROM
-LIMIT 10;
+FROM 
+LIMIT 5;
